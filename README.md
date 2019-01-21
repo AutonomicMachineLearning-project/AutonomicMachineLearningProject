@@ -7,13 +7,13 @@ Overview
 ----------------
 This project support autonomic machine learning system for non-experienced developers. On this system, machine learning developers is available to generate their machine learning models and also run their models easily. 
 
-![Alt text](/C:/Users/Rosenblatt/Desktop/new/dataset.png)
+![Alt text](./img/dataset.png)
 <br><br>
-![Alt text](/C:/Users/Rosenblatt/Desktop/new/model.png)
+![Alt text](./img/model.png)
 <br><br>
-![Alt text](/C:/Users/Rosenblatt/Desktop/new/hyperparameter.png)
+![Alt text](./img/hyperparameter.png)
 <br><br>
-![Alt text](/C:/Users/Rosenblatt/Desktop/new/run.png)
+![Alt text](./img/run.png)
 <br><br>
 <br>
 
